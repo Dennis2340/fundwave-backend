@@ -42,6 +42,7 @@
 - **Body:**
   ```json
   {
+    "email":"string",
     "campaignName": "string",
     "campaignDescription": "string",
     "fundingGoal": "string",
